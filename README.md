@@ -14,7 +14,10 @@ Giresun Üniversitesi Şebinkarahisar MYO / Bilişim Güvenliği Teknolojisi
 * **Arayüz Elemanları:** `Text`, `Icon`, `CircleAvatar`, `Container`, `IntrinsicHeight`
 
 
-<img width="1918" height="920" alt="EMİR1" src="https://github.com/user-attachments/assets/c3534729-0e68-42e4-9896-b69e643d14ad" />
-<img width="1917" height="905" alt="12" src="https://github.com/user-attachments/assets/0f02d058-9fd5-4c9e-b990-0f2196140759" />
-img width="1918" height="913" alt="EMİR2" src="https://github.com/user-attachments/assets/bca397a6-b5d0-4033-a9fc-b11417f67821" />
-![Uploading 12.png…]()
+<img width="1918" height="920" alt="EMİR1" src="https://github.com/user-attachments/assets/43233710-b402-4413-8cc9-ff6c6afe66bd" />
+
+<img width="1918" height="913" alt="EMİR2" src="https://github.com/user-attachments/assets/600d2c73-6bbd-4fbb-b69b-02972e67ed94" />
+
+<img width="1917" height="905" alt="12" src="https://github.com/user-attachments/assets/0bde362d-f199-442c-8bbb-d72eb3a317e6" />
+
+
